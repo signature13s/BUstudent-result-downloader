@@ -27,8 +27,8 @@ This is a Node.js application that automates the downloading of student result P
    ```bash
    git clone https://github.com/signature13s/BUstudent-result-downloader.git
    cd student-result-downloader
-   Install dependencies
    ```
+   Install dependencies
 
 ```bash
 
@@ -83,7 +83,9 @@ This tool is intended for educational and personal use. Do not use it for scrapi
 🤝 Contributing
 Feel free to fork and submit PRs to improve performance, error handling, or add new features like CAPTCHA bypassing or better UI.
 
+```bash
 👨‍💻 Author
 Mukul Kumar Sahu
 Department of C.S.E
 Institute of Engineering and Technology, Bundelkhand University
+```
