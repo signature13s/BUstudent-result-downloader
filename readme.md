@@ -64,12 +64,14 @@ Clean up individual PDFs.
 
 📁 Output Structure
 
+```bash
 student-result-downloader/
 │
 ├── index.js # Main server file
 ├── src_page.html # Cached source page (for performance)
 ├── COURSEName_results/ # Temporary individual PDFs auto cleaned after creation of merged pdf
 ├── COURSEName_merged_results.pdf# Final merged PDF
+```
 
 ⚠️ Notes
 Puppeteer Requirements:
